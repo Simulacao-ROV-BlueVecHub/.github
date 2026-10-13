@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Simulacao-ROV-BlueVecHub/.github/main/profile/assets/hero.svg" alt="ROV descendo por um tether ate um manifold no leito marinho" width="100%">
+</p>
+
 # Simulação ROV — BlueVecHub
 
 Organização do setor de simulação da BlueVecHub.
@@ -18,6 +22,10 @@ produção de conteúdo 3D.
 
 Esta organização guarda o que sustenta esse trabalho: as ferramentas, os
 scripts, a configuração da equipe e a base de conhecimento técnico acumulada.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Simulacao-ROV-BlueVecHub/.github/main/profile/assets/fases.svg" alt="Fases de uma operacao: descida, aproximacao, conexao, intertravamento e recolhimento" width="100%">
+</p>
 
 ## O que vive aqui
 
